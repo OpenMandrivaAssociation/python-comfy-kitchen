@@ -1,5 +1,5 @@
 Name:		python-comfy-kitchen
-Version:	0.2.31
+Version:	0.2.35
 Release:	1
 Summary:	Fast kernel library for ComfyUI (eager/PyTorch backend)
 License:	Apache-2.0
